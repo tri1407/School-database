@@ -1,0 +1,324 @@
+{
+    "schools": [
+        {
+            "school_name": "THCS Phan Chu Trinh",
+            "headmaster": "Nguyễn Thanh Hà",
+            "classrooms": [
+                {
+                    "class_name": "8A5",
+                    "teacher": "Trần Thị Tuyết",
+                    "students": [
+                        {
+                            "name": "Nguyễn Hà An",
+                            "gender": "Nữ",
+                            "birthdate": "13/09/2011",
+                            "student_id": "1",
+                            "grades": []
+                        },
+                        {
+                            "name": "Đoàn Quỳnh Anh",
+                            "gender": "Nữ",
+                            "birthdate": "07/08/2011",
+                            "student_id": "2",
+                            "grades": []
+                        },
+                        {
+                            "name": "Hoàng Nguyệt Ánh",
+                            "gender": "Nữ",
+                            "birthdate": "22/08/2011",
+                            "student_id": "3",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trần Ngọc Bách",
+                            "gender": "Nam",
+                            "birthdate": "20/03/2011",
+                            "student_id": "4",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trương Gia Bách",
+                            "gender": "Nam",
+                            "birthdate": "09/06/2011",
+                            "student_id": "5",
+                            "grades": []
+                        },
+                        {
+                            "name": "Đinh Nguyễn Bảo Châu",
+                            "gender": "Nữ",
+                            "birthdate": "29/03/2011",
+                            "student_id": "6",
+                            "grades": []
+                        },
+                        {
+                            "name": "Ngô Bảo Châu",
+                            "gender": "Nữ",
+                            "birthdate": "11/08/2011",
+                            "student_id": "7",
+                            "grades": []
+                        },
+                        {
+                            "name": "Hoàng Khánh Chi",
+                            "gender": "Nữ",
+                            "birthdate": "30/12/2011",
+                            "student_id": "8",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Mai Chi",
+                            "gender": "Nữ",
+                            "birthdate": "08/04/2011",
+                            "student_id": "9",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trần Bảo Khánh Chi",
+                            "gender": "Nữ",
+                            "birthdate": "29/06/2011",
+                            "student_id": "10",
+                            "grades": []
+                        },
+                        {
+                            "name": "Lưu Công Hải Đăng",
+                            "gender": "Nam",
+                            "birthdate": "09/11/2011",
+                            "student_id": "11",
+                            "grades": []
+                        },
+                        {
+                            "name": "Phùng Tuấn Đạt",
+                            "gender": "Nam",
+                            "birthdate": "20/11/2011",
+                            "student_id": "12",
+                            "grades": []
+                        },
+                        {
+                            "name": "Đỗ Khánh Duy",
+                            "gender": "Nam",
+                            "birthdate": "19/01/2011",
+                            "student_id": "13",
+                            "grades": []
+                        },
+                        {
+                            "name": "Cao Minh Hà",
+                            "gender": "Nữ",
+                            "birthdate": "06/06/2011",
+                            "student_id": "14",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Phương Hà",
+                            "gender": "Nữ",
+                            "birthdate": "01/10/2011",
+                            "student_id": "15",
+                            "grades": []
+                        },
+                        {
+                            "name": "Phùng Vũ Hiển",
+                            "gender": "Nam",
+                            "birthdate": "28/02/2011",
+                            "student_id": "16",
+                            "grades": []
+                        },
+                        {
+                            "name": "Lò Trung Hiếu",
+                            "gender": "Nam",
+                            "birthdate": "05/11/2011",
+                            "student_id": "17",
+                            "grades": [
+                                5.0,
+                                10.0
+                            ]
+                        },
+                        {
+                            "name": "Nguyễn Phi Hùng",
+                            "gender": "Nam",
+                            "birthdate": "10/05/2011",
+                            "student_id": "18",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Gia Huy",
+                            "gender": "Nam",
+                            "birthdate": "15/01/2011",
+                            "student_id": "19",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Minh Huy",
+                            "gender": "Nam",
+                            "birthdate": "28/11/2011",
+                            "student_id": "20",
+                            "grades": []
+                        },
+                        {
+                            "name": "Phan Doãn Gia Huy",
+                            "gender": "Nam",
+                            "birthdate": "05/10/2011",
+                            "student_id": "21",
+                            "grades": []
+                        },
+                        {
+                            "name": "Ngô Gia Khiêm",
+                            "gender": "Nam",
+                            "birthdate": "25/12/2011",
+                            "student_id": "22",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Anh Khôi",
+                            "gender": "Nam",
+                            "birthdate": "20/05/2011",
+                            "student_id": "23",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trần Lâm",
+                            "gender": "Nam",
+                            "birthdate": "09/08/2011",
+                            "student_id": "24",
+                            "grades": []
+                        },
+                        {
+                            "name": "Hoàng Thúy Linh",
+                            "gender": "Nữ",
+                            "birthdate": "14/08/2011",
+                            "student_id": "25",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Khánh Linh",
+                            "gender": "Nữ",
+                            "birthdate": "24/03/2011",
+                            "student_id": "26",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trương Bảo Linh",
+                            "gender": "Nữ",
+                            "birthdate": "29/01/2011",
+                            "student_id": "27",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Đức Long",
+                            "gender": "Nam",
+                            "birthdate": "07/07/2011",
+                            "student_id": "28",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Tường Minh",
+                            "gender": "Nam",
+                            "birthdate": "10/03/2011",
+                            "student_id": "29",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trương Nhật Nguyệt",
+                            "gender": "Nữ",
+                            "birthdate": "08/11/2011",
+                            "student_id": "30",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Thế Nhật",
+                            "gender": "Nam",
+                            "birthdate": "10/03/2011",
+                            "student_id": "31",
+                            "grades": []
+                        },
+                        {
+                            "name": "Trần Minh Như",
+                            "gender": "Nữ",
+                            "birthdate": "05/09/2011",
+                            "student_id": "32",
+                            "grades": []
+                        },
+                        {
+                            "name": "Vũ Thái Minh Phương",
+                            "gender": "Nữ",
+                            "birthdate": "31/03/2011",
+                            "student_id": "33",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Tuệ San",
+                            "gender": "Nữ",
+                            "birthdate": "07/12/2011",
+                            "student_id": "34",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Tiến Thành",
+                            "gender": "Nam",
+                            "birthdate": "12/12/2011",
+                            "student_id": "35",
+                            "grades": []
+                        },
+                        {
+                            "name": "Hà Đức Thọ",
+                            "gender": "Nam",
+                            "birthdate": "22/06/2011",
+                            "student_id": "36",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nghiêm Đài Trang",
+                            "gender": "Nữ",
+                            "birthdate": "13/04/2011",
+                            "student_id": "37",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Hoàng Trang",
+                            "gender": "Nữ",
+                            "birthdate": "12/12/2011",
+                            "student_id": "38",
+                            "grades": []
+                        },
+                        {
+                            "name": "Ngô Bảo Trâm",
+                            "gender": "Nữ",
+                            "birthdate": "27/11/2011",
+                            "student_id": "39",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Đức Trí",
+                            "gender": "Nam",
+                            "birthdate": "14/07/2011",
+                            "student_id": "40",
+                            "grades": [
+                                8.5,
+                                9.0,
+                                10.0
+                            ]
+                        },
+                        {
+                            "name": "Dương Lưu Nhã Vi",
+                            "gender": "Nữ",
+                            "birthdate": "18/11/2011",
+                            "student_id": "41",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Đức Vinh",
+                            "gender": "Nam",
+                            "birthdate": "05/08/2011",
+                            "student_id": "42",
+                            "grades": []
+                        },
+                        {
+                            "name": "Nguyễn Trần Hà Vũ",
+                            "gender": "Nam",
+                            "birthdate": "14/07/2011",
+                            "student_id": "43",
+                            "grades": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

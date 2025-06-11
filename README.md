@@ -20,3 +20,4 @@ Một hệ thống quản lý trường học bằng Python đơn giản giúp b
 
 Bạn có thể chạy chương trình trực tiếp trên Replit mà không cần cài đặt gì
 👉 [Chạy chương trình tại đây](https://replit.com/@ductrin97/School-database)
+Nếu không thì chạy [Chạy chương trình tại đây](https://School-database.repl.co)

@@ -20,3 +20,4 @@ Một hệ thống quản lý trường học bằng Python đơn giản giúp b
 
 ```bash
 python main.py
+👉 [Chạy chương trình tại đây](https://replit.com/@your_username/your_project_name)

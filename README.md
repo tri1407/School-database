@@ -18,8 +18,8 @@ Một hệ thống quản lý trường học bằng Python đơn giản giúp b
 
 ### 2. Chạy chương trình
 
-```bash
-python main.py
+'''bash
+python main.py'''
 
 Bạn có thể chạy chương trình trực tiếp trên Replit mà không cần cài đặt gì
 👉 [Chạy chương trình tại đây](https://replit.com/@your_username/your_project_name)

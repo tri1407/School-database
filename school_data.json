@@ -125,10 +125,7 @@
                             "gender": "Nam",
                             "birthdate": "05/11/2011",
                             "student_id": "17",
-                            "grades": [
-                                5.0,
-                                10.0
-                            ]
+                            "grades": []
                         },
                         {
                             "name": "Nguyễn Phi Hùng",
@@ -289,11 +286,7 @@
                             "gender": "Nam",
                             "birthdate": "14/07/2011",
                             "student_id": "40",
-                            "grades": [
-                                8.5,
-                                9.0,
-                                10.0
-                            ]
+                            "grades": []
                         },
                         {
                             "name": "Dương Lưu Nhã Vi",
